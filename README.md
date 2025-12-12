@@ -76,10 +76,10 @@ heart-failure-prediction/
 └── LICENSE
 
 
-Transparency Note
-
 ## Transparency Note
-The video presentation accompanying this project was narrated using an AI voice clone of the author, generated via ElevenLabs. The slides were created with Google Slides, and the final video was assembled using Google Vids. This choice reflects my interest in leveraging AI tools for effective communication and accessibility.
+The video presentation accompanying this project was narrated using an AI voice clone of the author, generated via ElevenLabs.
+The slides were created with Google Slides, and the final video was assembled using Google Vids.
+This choice reflects my interest in leveraging AI tools for effective communication and accessibility.
 
 Technologies Used
 
